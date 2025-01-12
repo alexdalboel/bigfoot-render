@@ -312,4 +312,4 @@ def update_map_and_visuals(selected_states, date_range, click_data, histogram_to
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run()
